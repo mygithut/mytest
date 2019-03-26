@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Nov 16 08:32:18 CST 2015
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=false
+onejar.checkbox=true
+jarname=qjdatalogic_bil.jar
+manifest.mergeall=false
+manifest.mainclass=app.riskapp.main.Monitor
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
